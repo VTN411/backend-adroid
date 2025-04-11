@@ -1,8 +1,8 @@
 services:
   - type: web
-    name: php-api
+    name: api-qlnv
     env: docker
     plan: free
-    repo: https://github.com/username/repo-name
-    dockerfilePath: Dockerfile
     branch: main
+    buildCommand: ""
+    startCommand: ""
