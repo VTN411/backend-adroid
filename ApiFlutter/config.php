@@ -1,8 +1,8 @@
 <?php
-$host = 'sql302.infinityfree.com';
-$db   = 'if0_38720797_quanlynhanvien';
-$user = 'if0_38720797';
-$pass = 'Z5ZXvd4wj3';
+$host = 'http://sql12.freesqldatabase.com';
+$db   = 'sql12772517';
+$user = 'sql12772517';
+$pass = 'EQugmHgGej';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
